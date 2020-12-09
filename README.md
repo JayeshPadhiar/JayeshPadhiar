@@ -2,15 +2,9 @@
 
 ### I'm [Jayesh Padhiar](https://jayeshpadhiar.github.io)!
 
-I am an IT Undergrad from Pune.
-
-Since 2015 I've been living and breathing code and learning new skills everyday. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨
-
 ### What I'm focusing on 👨‍💻
 
 Currently improving my React skills for the frontend and Python for Backend and Data Science<br/>
-
-BTW, I'm a Football breather and a die hard Barca fan.
 
 ### Find me elsewhere 🌎
 
