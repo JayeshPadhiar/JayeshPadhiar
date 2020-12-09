@@ -10,7 +10,7 @@ Since 2015 I've been living and breathing code and learning new skills everyday.
 
 Currently improving my React skills for the frontend and Python for Backend and Data Science<br/>
 
-BTW, I'm a huge Footabll lover and a die hard Barca fan.
+BTW, I'm a Football breather and a die hard Barca fan.
 
 ### Find me elsewhere 🌎
 
