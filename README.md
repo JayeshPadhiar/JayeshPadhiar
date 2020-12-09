@@ -2,7 +2,7 @@
 
 ### I'm [Jayesh Padhiar](https://jayeshpadhiar.github.io)!
 
-I am a IT Undergrad from Pune.
+I am an IT Undergrad from Pune.
 
 Since 2015 I've been living and breathing code and learning new skills everyday. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨
 
