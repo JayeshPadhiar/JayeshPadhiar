@@ -4,7 +4,7 @@
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my Frontend skills and Python for Backend and Data Science<br/>
+Currently improving my problem solving skills for Data Structures & Algorithms<br/>
 
 ### Find me elsewhere 🌎
 
