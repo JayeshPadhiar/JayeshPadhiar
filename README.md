@@ -34,14 +34,18 @@
 <a href="https://github.com/JayeshPadhiar/JayeshPadhiar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshPadhiar&hide=html,css, scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
 </a>
+
+<br/>
+
 <a href="https://github.com/JayeshPadhiar/JayeshPadhiar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayeshPadhiar&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jayesh's GitHub Stats" />
 </a>
 
+<br/>
+
 <a href="https://github.com/JayeshPadhiar/Freelance">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayeshPadhiar&repo=Freelance&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
 
 <a href="https://github.com/JayeshPadhiar/CowinAutoScheduler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayeshPadhiar&repo=CowinAutoScheduler&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
