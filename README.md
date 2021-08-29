@@ -1,6 +1,6 @@
 # Hi there ! I'm [Jayesh Padhiar](https://jayeshpadhiar.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 ### Information Technology Undergrad aspiring to work on exciting projects
-### View my [Resume](https://drive.google.com/file/d/1M34GhRufzVqbx3VCSM8PUtFV1CekVLT3/view?usp=sharing)
+### View my [Resume](https://drive.google.com/drive/u/0/folders/1ASh-IdH5VJdR14mYo06P-oqw0ofOIRbm)
 
 <br/>
 
