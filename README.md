@@ -42,6 +42,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayeshPadhiar&repo=Freelance&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/JayeshPadhiar/CustomerPortal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayeshPadhiar&repo=CustomerPortal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 ## 👨‍💻 What I'm focusing on
 
 Currently improving my problem solving skills for Data Structures & Algorithms<br/>
