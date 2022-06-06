@@ -1,4 +1,4 @@
-# Hi there ! I'm [Jayesh Padhiar](https://jayeshpadhiar.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi there ! I'm [Jayesh Padhiar](https://jayeshpadhiar.github.io)
 ### Information Technology Undergrad aspiring to work on exciting projects
 ### Have a look at my [Website](https://jayeshpadhiar.github.io) and [Resume](https://drive.google.com/drive/u/0/folders/1ASh-IdH5VJdR14mYo06P-oqw0ofOIRbm)
 
