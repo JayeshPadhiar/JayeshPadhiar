@@ -51,5 +51,3 @@ Currently improving my problem solving skills for Data Structures & Algorithms<b
 
 ## 🌎 Find me elsewhere
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jayeshpadhiar/)](https://www.linkedin.com/in/jayeshpadhiar/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/JayeshPadhiar)](https://twitter.com/JayeshPadhiar)
