@@ -1,6 +1,5 @@
 # Hi there ! I'm [Jayesh Padhiar](https://jayeshpadhiar.github.io)
 ### Information Technology Undergrad aspiring to work on exciting projects
-### Have a look at my [Website](https://jayeshpadhiar.github.io) and [Resume](https://drive.google.com/drive/u/0/folders/1ASh-IdH5VJdR14mYo06P-oqw0ofOIRbm)
 
 ## 🔧 I've Worked With
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
